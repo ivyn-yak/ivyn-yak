@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Year 2 Information Systems Student
 ----------------------------------
 
-I am interested in Software Engineering and Business Analytics.
+I am interested in Software Engineering, Machine Learning and Business Analytics.
 
 * 🌍  I'm based in Singapore
-* 🚀  I'm currently working on [a Full Stack project](http://github.com/ivyn-yak)
-* 🧠  I'm learning MERN tech stack & Tailwind CSS
-* ⚡  I want to pick up a new programming language in Summer!
+* 🚀  I'm currently preparing for some hackathons 
+* 🧠  I'm learning MERN tech stack & Tailwind CSS
+* ⚡  I want to pick up a new programming language in Summer!
 
 ### Skills
 
