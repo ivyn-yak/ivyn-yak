@@ -7,9 +7,9 @@ Year 3 Information Systems Student
 I am interested in Software Engineering and Machine Learning.
 
 * 🌍  I'm based in Singapore
-* 🚀  I'm currently preparing for some hackathons 
-* 🧠  I'm learning [OOP in Java](http://github.com/ivyn-yak/ride-sharing-oop-java)
-* ⚡  I want to pick up a new programming language in Summer!
+* 🚀  I'm currently leetcoding :) 
+* 🧠  I'm improving on my Data Structures & Algo ^^^
+* ⚡  I want to create some cool things!
 
 ### Skills
 
