@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ivyn Yak
 ================================================================================================================================
 
-Year 3 Information Systems Student
+Year 4 Information Systems Student
 ----------------------------------
 
 I am interested in Software Engineering and Machine Learning.
 
-* 🌍  I'm based in Singapore, currently on exchange in Finland!
-* 🚀  I'm an aspiring software developer with a strong interest in AI/ML and web development.
+* 🌍  I'm based in Singapore
+* 🚀  I'm an aspiring software developer with a strong interest in AI and web development.
 * 🧠  I'm currently brushing up on my fundamentals
 * 🧩  I enjoy solving coding challenges and participating in hackathons.
 
